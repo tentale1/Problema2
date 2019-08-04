@@ -10,7 +10,7 @@ public class Eficiencia
 {
     public static void main(String[] args)
     {
-        double gal,mill,mpg,lpk;
+        double gal=0,mill,mpg,lpk;
         
         Scanner Teclado = new Scanner (System.in);
         
